@@ -1,0 +1,19 @@
+.new_york {background-image: url("/Users/MSC/Projects_local/Broadway/resources/img/the-flatiron-building.jpg");
+background-size: cover;
+background-position: center;
+}
+
+#top_page {background-image: url("/Users/MSC/Projects_local/Broadway/resources/img/the-flatiron-building.jpg");
+background-size: cover;
+background-position: center;
+}
+
+body {text-align: center;
+}
+
+#copywrite {background-color: dimgray;
+color: white;
+font-size: 11px;
+font-family: Helvetica;
+text-align: left;
+}
