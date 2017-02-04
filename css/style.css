@@ -1,6 +1,7 @@
 .new_york {background-image: url("/Users/MSC/Projects_local/Broadway/resources/img/the-flatiron-building.jpg");
 background-size: cover;
 background-position: center;
+color: white;
 }
 
 #top_page {background-image: url("/Users/MSC/Projects_local/Broadway/resources/img/the-flatiron-building.jpg");
@@ -16,4 +17,37 @@ color: white;
 font-size: 11px;
 font-family: Helvetica;
 text-align: left;
+}
+
+a {color: white;
+  font-family: Helvetica;
+  font-size: 18px;
+}
+
+h5 a {color: white;
+  font-family: Helvetica;
+  font-size: 11px;
+}
+
+h1 {font-family: Helvetica;
+font-size: 70px;
+font-weight: bold;
+color: white;
+}
+
+h2 {font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+}
+
+h3 {font-family: Helvetica;
+font-size: 23px;
+font-weight: bold;}
+
+#process {font-family: Helvetica;
+font-size: 14px;
+}
+
+#bottom_page {font-family: Helvetica;
+font-size: 14px;
 }
